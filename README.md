@@ -35,5 +35,6 @@ Pandas · NumPy · Power BI · Excel · Selenium
 Tools
 Docker · Git/GitHub  Postman
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Aryel0&show_icons=true&theme=chartreuse-dark&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryel0&layout=compact&theme=chartreuse-dark&hide_border=true)
+![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryel0&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryel0&layout=compact&theme=tokyonight&hide_border=true)
+
