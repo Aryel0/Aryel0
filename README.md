@@ -1,16 +1,39 @@
-## Hi there 👋
+Hey, I’m Ariel.
 
-<!--
-**Aryel0/Aryel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an AI & Big Data master’s student at Aivancity, currently based in Paris, and I have interest in AI/ML but also in game development and low code software engineering 
 
-Here are some ideas to get you started:
+What I work on right now:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  -Strengthening my skills in AI engineering and data processing.
+
+  -Building projects ranging from RAG-powered agents to simple video games.
+
+  -Experimenting with image generation, a low code languague. 
+
+  -Exploring how automation and intelligent systems can simplify workflows and solve real problems.
+
+Beyond the code:
+When I disconnect from Python, I’m usually training, playing games, exploring tech, or building personal projects because I just love experiments 
+
+Let’s connect:
+I’m always open to discussing AI, backend architecture, automation, or just playing some for honnor and other games.
+
+Tech Stack
+
+Languages
+Python · SQL · C
+
+Backend
+Flask · FastAPI · SQLAlchemy 
+
+AI/ML
+LLMs · RAG · Scikit-learn 
+
+Data & Automation
+Pandas · NumPy · Power BI · Excel · Selenium
+
+Tools
+Docker · Git/GitHub  Postman
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Aryel0&show_icons=true&theme=chartreuse-dark&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryel0&layout=compact&theme=chartreuse-dark&hide_border=true)
