@@ -16,7 +16,7 @@ Beyond the code:
 When I disconnect from Python, I’m usually training, playing games, exploring tech, or building personal projects because I just love experiments 
 
 Let’s connect:
-I’m always open to discussing AI, backend architecture, automation, or just playing some games.
+I’m always open to discussing AI, engineering system, automation, or just playing some games.
 
 Tech Stack
 
