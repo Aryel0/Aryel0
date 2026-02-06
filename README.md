@@ -5,12 +5,8 @@ I’m an AI & Big Data master’s student at Aivancity, currently based in Paris
 What I work on right now:
 
     -Strengthening my skills in AI engineering and data processing.
-  
-    -Building projects ranging from RAG-powered agents to simple video games.
-  
-    -Experimenting with image generation, a low code languague. 
-  
-    -Exploring how automation and intelligent systems can simplify workflows and solve real problems.
+    -Building projects ranging from RAG-powered agents to video games.
+    -Exploring how automation and deep learning can be applied to the real world.
 
 Beyond the code:
 When I disconnect from Python, I’m usually training, playing games, exploring tech, or building personal projects because I just love experiments 
