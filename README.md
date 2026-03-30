@@ -14,22 +14,19 @@ When I disconnect from Python, I’m usually training, playing games, exploring 
 Let’s connect:
 I’m always open to discussing AI, engineering system, automation, or just playing some games.
 
-Tech Stack
+## SKILLS
 
-Languages:
-Python · SQL · C
+Programming Languqge: Python, SQL, Bash
 
-Backend
-Flask · FastAPI · SQLAlchemy 
+AI Systems: LLM Orchestration, Multi-Agent Architectures, RAG Pipelines, Embeddings, Vision-Language Models, Diffusion Fine-Tuning (LoRA/PEFT)
 
-AI/ML
-LLMs · RAG · Scikit-learn 
+Backend Engineering: REST APIs, Flask, FastAPI, SQLAlchemy, JWT Auth, Secure Tool Execution, Modular System Design
 
-Data & Automation
-Pandas · NumPy · Power BI · Excel · Selenium
+Machine Learning: PyTorch, Scikit-learn, Model Evaluation (ROC-AUC, F1)
 
-Tools
-Docker · Git/GitHub  Postman
+Data Engineering: Pandas, NumPy, Excel, Power BI, Large-Scale Data Processing, Automation (Selenium, Playwright),  Visualization (Plotly, Matplotlib)
+
+Infrastructure & Tooling: Docker, Linux, Git, PyTest, CLI/TUI Development, Logging
 
 ![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryel0&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryel0&layout=compact&theme=tokyonight&hide_border=true)
