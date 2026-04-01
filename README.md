@@ -1,33 +1,29 @@
 Hey, I’m Ariel.
+I’m an AI & Big Data master’s student at Aivancity in Paris. My work sits at the intersection of Intelligent Systems and Interactive Environments, where I explore how deep learning and automation can be applied to both real-world problems and procedural game design.
 
-I’m an AI & Big Data master’s student at Aivancity, currently based in Paris, and I have interest in AI/ML but also in game development and low code software engineering 
+Current Projects:
 
-What I work on right now:
+AI Engineering: Architecting Multi-Agent systems and optimizing RAG pipelines.
 
-    -Strengthening my skills in AI engineering and data processing.
-    -Building projects ranging from RAG-powered agents to video games.
-    -Exploring how automation and deep learning can be applied to the real world.
+Game Development: Building simulation-heavy projects using Pygame and libtcod.
 
-Beyond the code:
-When I disconnect from Python, I’m usually training, playing games, exploring tech, or building personal projects because I just love experiments 
+Automation: Implementing Vision-Language Models for real-world data processing.
 
-Let’s connect:
-I’m always open to discussing AI, engineering system, automation, or just playing some games.
+Beyond the Code:
+When I disconnect from Python, I’m usually training, exploring new tech, or building personal experiments. I have a deep interest in Procedural Content Generation (PCG) and TUI (Text User Interface) design.
 
-## SKILLS
+Let’s Connect:
+I’m always open to discussing AI, systems engineering, automation, or roguelike development.
 
-Programming Languqge: Python, SQL, Bash
+Technical Skills
+Languages: Python, SQL, Bash
 
-AI Systems: LLM Orchestration, Multi-Agent Architectures, RAG Pipelines, Embeddings, Vision-Language Models, Diffusion Fine-Tuning (LoRA/PEFT)
+AI Systems: LLM Orchestration, Multi-Agent Architectures, RAG Pipelines, Vision-Language Models, Diffusion Fine-Tuning (LoRA/PEFT)
 
-Backend Engineering: REST APIs, Flask, FastAPI, SQLAlchemy, JWT Auth, Secure Tool Execution, Modular System Design
+Game Dev & Simulation: Pygame, libtcod, Procedural Generation, Pathfinding, ECS
 
-Machine Learning: PyTorch, Scikit-learn, Model Evaluation (ROC-AUC, F1)
+Backend Engineering: FastAPI, Flask, SQLAlchemy, JWT Auth, Secure Tool Execution
 
-Data Engineering: Pandas, NumPy, Excel, Power BI, Large-Scale Data Processing, Automation (Selenium, Playwright),  Visualization (Plotly, Matplotlib)
+Machine Learning & Data: PyTorch, Scikit-learn, Pandas, Selenium, Playwright, Power BI
 
-Infrastructure & Tooling: Docker, Linux, Git, PyTest, CLI/TUI Development, Logging
-
-![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryel0&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryel0&layout=compact&theme=tokyonight&hide_border=true)
-
+Infrastructure: Docker, Linux, Git, PyTest, CLI/TUI Development, Logging
