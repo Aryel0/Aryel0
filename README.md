@@ -76,7 +76,3 @@ I enjoy building software that solves real problems, whether that's orchestratin
 * Distributed AI applications
 
 ---
-
-## Connect
-
-I'm always interested in talking about AI engineering, automation, backend systems, developer tooling, and procedural game development.
