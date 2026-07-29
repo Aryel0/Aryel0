@@ -1,30 +1,82 @@
-Hey, I’m Ariel.
-I’m an AI & Big Data master’s student at Aivancity in Paris. My work sits at the intersection of Intelligent Systems and Interactive Environments, where I explore how deep learning and automation can be applied to both real-world problems and procedural game design.
+# Hi, I'm Ariel
 
-Current Projects:
+I'm an AI & Big Data master's student at Aivancity in Paris with a focus on building practical AI systems. Most of my work revolves around agentic workflows, retrieval-augmented generation (RAG), automation, and simulation-heavy game development.
 
-AI Engineering: Architecting Multi-Agent systems and optimizing RAG pipelines.
+I enjoy building software that solves real problems, whether that's orchestrating LLM agents, automating repetitive workflows, or designing procedural systems for games.
 
-Game Development: Building simulation-heavy projects using Pygame and libtcod.
+---
 
-Automation: Implementing Vision-Language Models for real-world data processing.
+## What I'm Working On
 
-Beyond the Code:
-When I disconnect from Python, I’m usually exploring new tech, playing some video game or building personal experiments. I have a interest in task automation and TUI (Text User Interface) design.
+### AI Systems
 
-Let’s Connect:
-I’m always open to discussing AI, systems engineering, automation, or roguelike development.
+* Building multi-agent architectures
+* Developing and optimizing RAG pipelines
+* Experimenting with LLM orchestration and tool use
+* Applying Vision-Language Models to real-world workflows
 
-Technical Skills
+### Game Development
 
-Languages: Python, SQL, Bash
+* Creating simulation-heavy games with **Pygame** and **libtcod**
+* Designing procedural generation systems
+* Exploring AI-assisted gameplay and world simulation
 
-AI Systems: LLM Orchestration, Multi-Agent Architectures, RAG Pipelines, Vision-Language Models, Diffusion Fine-Tuning (LoRA/PEFT)
+### Developer Tools & Automation
 
-Game Dev & Simulation: Pygame, libtcod, Procedural Generation
+* Building automation tools for everyday workflows
+* Creating CLI and TUI applications
+* Experimenting with developer productivity tools
 
-Backend Engineering: FastAPI, Flask, SQLAlchemy, JWT Auth, Secure Tool Execution
+---
 
-Machine Learning & Data: PyTorch, Scikit-learn, Pandas, Selenium, Playwright, Power BI
+## Tech Stack
 
-Infrastructure: Docker, Linux, Git, PyTest, CLI/TUI Development, Logging, AWS
+### Languages
+
+`Python` • `SQL` • `Bash`
+
+### AI & Machine Learning
+
+`PyTorch` • `Scikit-learn` • `LLM Orchestration` • `Multi-Agent Systems` • `RAG` • `Vision-Language Models` • `LoRA / PEFT`
+
+### Backend
+
+`FastAPI` • `Flask` • `SQLAlchemy` • `JWT Authentication` • `REST APIs`
+
+### Game Development
+
+`Pygame` • `libtcod` • `Procedural Generation` • `Simulation Systems`
+
+### Data & Automation
+
+`Pandas` • `Playwright` • `Selenium` • `Power BI`
+
+### Infrastructure
+
+`Docker` • `Linux` • `Git` • `PyTest` • `AWS` • `Logging`
+
+---
+
+## Interests
+
+* Artificial Intelligence
+* Multi-Agent Systems
+* Developer Tooling
+* Automation
+* Simulation & Roguelike Games
+* Text User Interfaces (TUIs)
+
+---
+
+## Currently Learning
+
+* Scalable agent architectures
+* Advanced retrieval systems
+* AI evaluation and benchmarking
+* Distributed AI applications
+
+---
+
+## Connect
+
+I'm always interested in talking about AI engineering, automation, backend systems, developer tooling, and procedural game development.
